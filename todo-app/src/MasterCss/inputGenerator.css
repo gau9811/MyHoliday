@@ -1,0 +1,13 @@
+.BackGroundInputGenerator {
+  padding: 30px;
+  background-color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.BackGroundTitleLogo {
+  font-size: 30px;
+  font-weight: bold;
+}
